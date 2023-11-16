@@ -1,4 +1,4 @@
-background-color: #cddefa;
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 3fr);
@@ -13,7 +13,7 @@ background-color: #cddefa;
 }
 
 .image-item img {
-  max-width: 100%;
+  max-width: 30%;
   height: auto;
 }
 
@@ -26,5 +26,5 @@ h1{
   font-family: monospace;
 }
 body{
-  background-color: #cddefa;
+  background-color: #cddefa ;
 }

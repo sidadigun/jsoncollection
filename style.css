@@ -4,22 +4,24 @@
   grid-template-columns: repeat(3, 3fr);
   gap: 20px;
   padding: 20px;
+  border: 10px;
 }
 
 .image-item {
-  border: 1px solid #ccc;
-  padding: 10px;
-  text-align: left;
+  border: 5px solid #ffb8f3;
+  padding: 1px;
+  text-align: center;
 }
 
 .image-item img {
-  max-width: 30%;
+  max-width: 100%;
   height: auto;
 }
 
 .image-info {
   margin-top: 10px;
   text-align: left;
+  font-family: monospace;
 }
 h1{
   text-align: center;
